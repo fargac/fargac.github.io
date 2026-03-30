@@ -1,7 +1,7 @@
-# Gezo Gündem - İletişim (Contact Us)
+# Gezo Gündem İletişim / Contact Us
 
-Bu sayfa **Gezo Gündem** haber uygulamasının resmi iletişim sayfasıdır.
+Bu sayfa, içerik üreticisi **Gezoist** tarafından geliştirilen **Gezo Gündem** uygulamasının resmi iletişim sayfasıdır.
+This is the official contact page for the **Gezo Gündem** application by Gezoist.
 
-* **Uygulama Adı:** Gezo Gündem
-* **Yayıncı:** Fatih Argaç
-* **İletişim E-posta:** mobildivlit@gmail.com
+* **Geliştirici / Developer:** Gezoist
+* **E-posta / E-mail:** mobildivlit@gmail.com
